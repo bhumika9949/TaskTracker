@@ -1,6 +1,6 @@
 # Task Tracker App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4. It includes the Angular ui as well as JSON-server for our mock backend.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4. 
 
 ## Usage
 
